@@ -1,4 +1,5 @@
 import ExtraWork from "./extrawork";
+import ExtraWork2 from "./extrawork2";
 
 /** Add your relevant code here for the issue to reproduce */
 export default async function Home() {
@@ -9,6 +10,7 @@ export default async function Home() {
 
 home
 <ExtraWork />
+<ExtraWork2 />
   </div> ;
 }
 
